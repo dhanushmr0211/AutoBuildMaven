@@ -2,6 +2,6 @@ package com.exam;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Auto Build Trigger Test 4!");
+        System.out.println("Auto Build Trigger Test 5!");
     }
 }
